@@ -1,0 +1,1 @@
+/home/nikhil/Desktop/polkadot/rustPolkadot/contract/target/ink/release/metadata-gen: /home/nikhil/Desktop/polkadot/rustPolkadot/contract/lib.rs /home/nikhil/Desktop/polkadot/rustPolkadot/mul/src/lib.rs /home/nikhil/Desktop/polkadot/rustPolkadot/rng_lib/src/lib.rs /tmp/cargo-contract_LgSMOo/.ink/metadata_gen/main.rs

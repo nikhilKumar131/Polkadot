@@ -1,0 +1,11 @@
+/home/nikhil/Desktop/polkadot/rustPolkadot/contract/target/debug/deps/ink_metadata-d2d19d0b8caa9846.rmeta: /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/lib.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/mod.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/validate.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/specs.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/utils.rs
+
+/home/nikhil/Desktop/polkadot/rustPolkadot/contract/target/debug/deps/libink_metadata-d2d19d0b8caa9846.rlib: /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/lib.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/mod.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/validate.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/specs.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/utils.rs
+
+/home/nikhil/Desktop/polkadot/rustPolkadot/contract/target/debug/deps/ink_metadata-d2d19d0b8caa9846.d: /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/lib.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/mod.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/validate.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/specs.rs /home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/utils.rs
+
+/home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/lib.rs:
+/home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/mod.rs:
+/home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/layout/validate.rs:
+/home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/specs.rs:
+/home/nikhil/.cargo/registry/src/github.com-1ecc6299db9ec823/ink_metadata-4.2.1/src/utils.rs:
